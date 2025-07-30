@@ -80,8 +80,8 @@ contributor:
   - dcite:Supervision
   schemaKey: Person
 dateCreated: '2025-07-30T22:31:03.641333+00:00'
-description: An investigation of the granule cell subtype composition of dentate gyrus
-  and the influence of a V-L mutation in Neuregulin1.
+description: 'The electrophysiological data of Rajebhosale et al., Life Science Alliance
+  (2025). DOI: 10.26508/lsa.202403169.'
 ethicsApproval: []
 id: DANDI:001545/draft
 identifier: DANDI:001545
@@ -97,6 +97,9 @@ relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
+studyTarget:
+- 'An investigation of the granule cell subtype composition of dentate gyrus and the
+  influence of a V-L mutation in Neuregulin1. '
 url: https://dandiarchive.org/dandiset/001545/draft
 version: draft
 wasGeneratedBy: []
