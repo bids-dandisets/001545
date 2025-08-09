@@ -18,8 +18,8 @@ assetsSummary:
   measurementTechnique:
   - name: current clamp technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 278983896
-  numberOfFiles: 47
+  numberOfBytes: 284382648
+  numberOfFiles: 48
   numberOfSubjects: 10
   schemaKey: AssetsSummary
   species:
@@ -29,7 +29,7 @@ assetsSummary:
   variableMeasured:
   - CurrentClampSeries
   - CurrentClampStimulusSeries
-citation: Rajebhosale, Prithviraj; Jiang, Li; Ressa, Haylee; Johnston, Kory; Desai,
+citation: Rajebhosale, Prithviraj; Jiang, Li; Ressa, Haylee; Johnson, Kory; Desai,
   Niraj; Jone, Alice; Role, Lorna; Talmage, David (2025) Diversification of dentate
   gyrus granule cell subtypes is regulated by Nrg1 nuclear back-signaling (Version
   draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001545/draft
@@ -62,7 +62,7 @@ contributor:
   schemaKey: Person
 - email: kory.johnson@nih.gov
   includeInCitation: true
-  name: Johnston, Kory
+  name: Johnson, Kory
   roleName:
   - dcite:Author
   - dcite:FormalAnalysis
