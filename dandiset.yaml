@@ -98,6 +98,7 @@ contributor:
   - dcite:Supervision
   schemaKey: Person
 dateCreated: '2025-07-30T22:31:03.641333+00:00'
+datePublished: '2025-08-09T16:53:12.926545+00:00'
 description: 'The electrophysiological data of Rajebhosale et al., Life Science Alliance
   (2025). DOI: 10.26508/lsa.202403169.'
 ethicsApproval: []
@@ -111,6 +112,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001545/versions/draft/assets/
 name: Diversification of dentate gyrus granule cell subtypes is regulated by Nrg1
   nuclear back-signaling
+publishedBy:
+  endDate: '2025-08-09T16:53:12.926545+00:00'
+  id: urn:uuid:1a739780-ddae-4394-b1b9-b72bbd86ed58
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-08-09T16:53:12.926545+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:e603d18e-fd91-4fc8-a393-9d0942b8ad89
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
